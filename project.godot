@@ -24,9 +24,6 @@ window/vsync/use_vsync=true
 window/vsync/use_vsync_mobile=true
 window/frame/force_fps=60
 
-[editor]
-
-
 [input]
 
 move_right={
